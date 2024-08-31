@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1725085550046,
+    "name": "Suppu",
+    "email": "suprajakollu@gmail.com",
+    "message": "Hi, I am planning a birthday celebration.",
+    "timestamp": "2024-08-31T06:25:50.046Z",
+    "eventSuccessful": true
+  },
+  {
+    "id": 1725088070448,
+    "name": "Suppu",
+    "email": "suprajakollu1999@gmail.com",
+    "message": "Thanks for the message",
+    "timestamp": "2024-08-31T07:07:50.448Z",
+    "eventSuccessful": true
+  },
+  {
+    "id": 1725089027432,
+    "name": "Cherry",
+    "email": "cherry@gmail.com",
+    "message": "Hi, I am planning to celebrate my birthday party.",
+    "timestamp": "2024-08-31T07:23:47.432Z",
+    "eventSuccessful": false
+  },
+  {
+    "id": 1725089599372,
+    "name": "surya",
+    "email": "surya@gmail.com",
+    "message": "hello can you reply back.",
+    "timestamp": "2024-08-31T07:33:19.372Z",
+    "eventSuccessful": false
+  }
+]
